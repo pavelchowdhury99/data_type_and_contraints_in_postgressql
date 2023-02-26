@@ -1,4 +1,4 @@
-# Data Types and Constraints In PostGresSQL
+# Data Types and Constraints In PostGreSQL
 
 ## Data Types
 
