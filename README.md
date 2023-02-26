@@ -39,3 +39,15 @@
 
 ### [BOOLEAN](https://www.postgresql.org/docs/current/datatype-boolean.html)
 1. BOOLEAN
+
+### [ENUMERATE](https://www.postgresql.org/docs/current/datatype-enum.html)
+1. ENUMERATE
+
+### [JSON](https://www.postgresql.org/docs/current/datatype-json.html)
+1. JSON
+
+### [ARRAYS](https://www.postgresql.org/docs/current/arrays.html)
+
+### [BUNDLE DATA TYPE](https://www.postgresql.org/docs/current/rowtypes.html)
+
+### [GEOSPATIAL DATA](https://www.postgresql.org/docs/current/datatype-geometric.html)
