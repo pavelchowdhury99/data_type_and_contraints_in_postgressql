@@ -30,3 +30,12 @@
 1. CHAR(n)/ CHARACTER(n)
 2. VARCHAR(n)/ CHARACTER VARYING(n)
 3. TEXT
+
+### [TIME](https://www.postgresql.org/docs/current/datatype-datetime.html)
+1. TIMESTAMP with and without time stamp
+2. TIME with and without time stamp
+3. DATE
+4. INTERVAL
+
+### [BOOLEAN](https://www.postgresql.org/docs/current/datatype-boolean.html)
+1. BOOLEAN
