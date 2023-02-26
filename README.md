@@ -41,7 +41,7 @@
 1. BOOLEAN
 
 ### [ENUMERATE](https://www.postgresql.org/docs/current/datatype-enum.html)
-1. ENUMERATE
+1. ENUM
 
 ### [JSON](https://www.postgresql.org/docs/current/datatype-json.html)
 1. JSON
