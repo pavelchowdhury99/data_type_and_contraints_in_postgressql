@@ -51,3 +51,14 @@
 ### [BUNDLE DATA TYPE](https://www.postgresql.org/docs/current/rowtypes.html)
 
 ### [GEOSPATIAL DATA](https://www.postgresql.org/docs/current/datatype-geometric.html)
+
+## [Constraints](https://www.postgresql.org/docs/current/ddl-constraints.html)
+1. CHECK / CONSTRAINT constraint_name CHECK (condition)
+2. NOT NULL
+3. UNIQUE
+4. UNIQUE (Col1,Col2,..)
+5. UNIQUE NULLS NOT DISTINCT
+6. PRIMARY KEY
+7. PRIMARY KEY (col_1,col_2,..)
+8. REFERENCES table_name (col_name) / FOREIGN KEY (col_1,col_2) REFERENCES other_table (col_1, col_2)
+
