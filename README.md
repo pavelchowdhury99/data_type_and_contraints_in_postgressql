@@ -32,8 +32,8 @@
 3. TEXT
 
 ### [TIME](https://www.postgresql.org/docs/current/datatype-datetime.html)
-1. TIMESTAMP with and without time stamp
-2. TIME with and without time stamp
+1. TIMESTAMP with and without time zone
+2. TIME with and without time zone
 3. DATE
 4. INTERVAL
 
